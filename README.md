@@ -3,6 +3,14 @@ Book Search Engine
 
 ## Use
 
-With this application, you must sign up or log in to use all the features. Otherwise, you can only search the book database. 
+Once you have it loaded you can type in the terminal npm run develop
 
-## Links 
+This will open a webpage where you can test the application. 
+
+Sign up and log in to see the full range of features. 
+
+## Link
+
+### GitHub link 
+
+https://github.com/JD2929/BookSearchEngine
